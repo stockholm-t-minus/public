@@ -1,0 +1,21 @@
+# Site settings
+title: Stockholm T-Minus
+description: Real-time departure countdowns for Stockholm public transit
+url: https://stockholm-t-minus.github.io
+baseurl: /public
+
+# Theme - using Cayman (GitHub Pages supported)
+theme: jekyll-theme-cayman
+
+# Default page settings
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
