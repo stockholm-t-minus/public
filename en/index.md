@@ -34,7 +34,26 @@ Full support for both Swedish and English interfaces.
 
 ## Screenshots
 
-*Coming soon*
+### Departures
+See your next departure at a glance with the countdown timer. Switch between Home and Away stops with a tap.
+
+| Light Mode | Dark Mode |
+|:---:|:---:|
+| ![Departures light mode](../images/en/departures-home-light.png) | ![Departures dark mode](../images/en/departures-away-dark.png) |
+
+### Stop Configuration
+Set your walk time to filter out departures you can't catch. Select exactly which lines and directions you care about.
+
+| Stop Search | Line Filter |
+|:---:|:---:|
+| ![Stop search](../images/en/stops-search.png) | ![Line filter](../images/en/stops-filter.png) |
+
+### Home Screen Widget
+Check departures without opening the app. The widget updates automatically and shows your next departure with a countdown.
+
+| Dark Mode | Light Mode |
+|:---:|:---:|
+| ![Widget dark mode](../images/en/widget-dark.png) | ![Widget light mode](../images/en/widget-light.png) |
 
 ---
 

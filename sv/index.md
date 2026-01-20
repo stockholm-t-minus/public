@@ -34,7 +34,26 @@ Fullt stöd för både svenska och engelska gränssnitt.
 
 ## Skärmbilder
 
-*Kommer snart*
+### Avgångar
+Se din nästa avgång direkt med nedräkning. Växla mellan Hem och Borta-hållplatser med ett tryck.
+
+| Ljust läge | Mörkt läge |
+|:---:|:---:|
+| ![Avgångar ljust läge](../images/sv/departures-home-light.png) | ![Avgångar mörkt läge](../images/sv/departures-away-dark.png) |
+
+### Hållplatsinställningar
+Ställ in din gångtid för att filtrera bort avgångar du inte hinner med. Välj exakt vilka linjer och riktningar du bryr dig om.
+
+| Sök hållplats | Linjefilter |
+|:---:|:---:|
+| ![Sök hållplats](../images/sv/stops-search.png) | ![Linjefilter](../images/sv/stops-filter.png) |
+
+### Widget på hemskärmen
+Kolla avgångar utan att öppna appen. Widgeten uppdateras automatiskt och visar din nästa avgång med nedräkning.
+
+| Mörkt läge | Ljust läge |
+|:---:|:---:|
+| ![Widget mörkt läge](../images/sv/widget-dark.png) | ![Widget ljust läge](../images/sv/widget-light.png) |
 
 ---
 
