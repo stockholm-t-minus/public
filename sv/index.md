@@ -64,6 +64,9 @@ Appen visar endast hållplatser som har faktiska avgångar. Om en hållplats int
 ### Hur exakta är avgångstiderna?
 Avgångstiderna kommer direkt från SL:s realtids-API. Noggrannheten beror på SL:s data — appen visar exakt vad SL rapporterar.
 
+### Varför ser jag bara ett fåtal kommande avgångar per linje?
+Appen kan endast visa upp till 3 kommande avgångar per linje och riktning. Detta är en begränsning i den data som SL tillhandahåller, inte i appen själv.
+
 ### Fungerar appen offline?
 Nej. Stockholm T-Minus kräver internetanslutning för att hämta realtidsdata. Det finns inget offline-läge.
 

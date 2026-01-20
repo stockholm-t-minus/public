@@ -64,6 +64,9 @@ The app only shows stops that have actual departures. If a stop doesn't appear, 
 ### How accurate are the departure times?
 Departure times come directly from SL's real-time API. The accuracy depends on SL's data — the app displays exactly what SL reports.
 
+### Why do I only see a few upcoming departures per line?
+The app can only display up to 3 upcoming departures per line and direction. This is a limitation of the data SL provides, not the app itself.
+
 ### Does the app work offline?
 No. Stockholm T-Minus requires an internet connection to fetch real-time departure data. There is no offline mode.
 
