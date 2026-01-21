@@ -19,7 +19,7 @@ See live departure times from any SL stop in Stockholm. Times update automatical
 Use your location to discover transit stops around you. No more guessing which stop is closest.
 
 ### ⭐ Save Your Favorites
-Save the stops you use most for quick access. Perfect for your daily commute.
+Save up to three stops for quick access — Home, Work, and an optional third location. Perfect for your daily commute.
 
 ### ✏️ Custom Station Names
 Rename your stations to anything you want — "Work", "Gym", "School", or whatever makes sense to you. Custom names appear in the app and widget.
@@ -38,7 +38,7 @@ Full support for both Swedish and English interfaces.
 ## Screenshots
 
 ### Departures
-See your next departure at a glance with the countdown timer. Switch between Home and Work stops with a tap.
+See your next departure at a glance with the countdown timer. Switch between your saved stops with a tap or swipe.
 
 | Light Mode | Dark Mode |
 |:---:|:---:|
@@ -95,8 +95,8 @@ No. Stockholm T-Minus requires an internet connection to fetch real-time departu
 ### Why does the widget sometimes show old data?
 Android limits how often widgets can update to preserve battery life. Tap the refresh button to make sure you're getting the latest data.
 
-### Can I rename the Home and Work tabs?
-Yes! Go to the Stops tab and edit the "Label" field for each station. You can name them anything you like — for example "Gym", "School", or "Partner's Place". Your custom names will appear in the tabs and on the widget.
+### Can I add more than two stops?
+Yes! Tap the + button in the Stops tab to add an optional third stop. You can also rename any stop by editing the "Label" field — for example "Gym", "School", or "Partner's Place". Your custom names appear in the tabs and on the widget.
 
 ### Can I plan a trip with this app?
 No. Stockholm T-Minus shows departures from specific stops only. For trip planning (A to B routing), use the official SL app or website.
