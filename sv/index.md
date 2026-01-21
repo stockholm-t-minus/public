@@ -21,6 +21,9 @@ Använd din plats för att hitta hållplatser i närheten. Slipp gissa vilken h�
 ### ⭐ Spara dina favoriter
 Spara de hållplatser du använder mest för snabb åtkomst. Perfekt för din dagliga pendling.
 
+### ✏️ Anpassade stationsnamn
+Döp om dina stationer till vad du vill — "Jobb", "Gym", "Skola" eller vad som passar dig. Anpassade namn visas i appen och på widgeten.
+
 ### 🎯 Filtrera efter linje
 Bryr du dig bara om vissa linjer? Filtrera avgångarna så att du bara ser de bussar eller tåg du faktiskt åker med.
 
@@ -35,7 +38,7 @@ Fullt stöd för både svenska och engelska gränssnitt.
 ## Skärmbilder
 
 ### Avgångar
-Se din nästa avgång direkt med nedräkning. Växla mellan Hem och Borta-hållplatser med ett tryck.
+Se din nästa avgång direkt med nedräkning. Växla mellan Hem- och Jobb-hållplatser med ett tryck.
 
 | Ljust läge | Mörkt läge |
 |:---:|:---:|
@@ -91,6 +94,9 @@ Nej. Stockholm T-Minus kräver internetanslutning för att hämta realtidsdata. 
 
 ### Varför visar widgeten ibland gammal data?
 Android begränsar hur ofta widgets kan uppdateras för att spara batteri. Tryck på uppdateringsknappen för att säkerställa att du får den senaste datan.
+
+### Kan jag byta namn på Hem- och Jobb-flikarna?
+Ja! Gå till fliken Hållplatser och redigera fältet "Etikett" för varje station. Du kan namnge dem vad du vill — till exempel "Gym", "Skola" eller "Partnerns lägenhet". Dina anpassade namn visas i flikarna och på widgeten.
 
 ### Kan jag planera en resa med appen?
 Nej. Stockholm T-Minus visar endast avgångar från specifika hållplatser. För reseplanering (A till B) använd SL:s officiella app eller webbplats.
