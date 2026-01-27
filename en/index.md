@@ -8,6 +8,18 @@ lang: en
 
 **Stockholm T-Minus shows you exactly how many minutes until your next bus, train, or metro arrives — right on your home screen.**
 
+<div style="background: linear-gradient(135deg, #009B3A 0%, #0077C1 100%); padding: 25px; border-radius: 12px; text-align: center; margin: 20px 0;">
+
+<h3 style="color: white; margin-top: 0;">🚀 Get Early Access</h3>
+
+<p style="color: white; margin-bottom: 15px;">Stockholm T-Minus is launching soon. Join our exclusive beta program to try the app before anyone else — and help shape its future with your feedback.</p>
+
+<a href="https://groups.google.com/g/stockholm-t-minus" style="display: inline-block; padding: 12px 30px; background: white; color: #0077C1; text-decoration: none; border-radius: 8px; font-size: 1.1em; font-weight: bold;">
+Join Beta Program →
+</a>
+
+</div>
+
 ---
 
 ## Features
@@ -62,7 +74,7 @@ Check departures without opening the app. The widget updates automatically and s
 
 ## Download
 
-**Google Play:** *Coming soon*
+**Google Play:** *Coming soon* — [Join the beta program](https://groups.google.com/g/stockholm-t-minus) to try the app before launch!
 
 ---
 

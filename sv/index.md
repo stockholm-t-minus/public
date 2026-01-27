@@ -8,6 +8,18 @@ lang: sv
 
 **Stockholm T-Minus visar exakt hur många minuter det är kvar tills din nästa buss, tåg eller tunnelbana avgår — direkt på din hemskärm.**
 
+<div style="background: linear-gradient(135deg, #009B3A 0%, #0077C1 100%); padding: 25px; border-radius: 12px; text-align: center; margin: 20px 0;">
+
+<h3 style="color: white; margin-top: 0;">🚀 Få tidig åtkomst</h3>
+
+<p style="color: white; margin-bottom: 15px;">Stockholm T-Minus lanseras snart. Gå med i vårt exklusiva betaprogram för att prova appen före alla andra — och hjälp forma dess framtid med din feedback.</p>
+
+<a href="https://groups.google.com/g/stockholm-t-minus" style="display: inline-block; padding: 12px 30px; background: white; color: #0077C1; text-decoration: none; border-radius: 8px; font-size: 1.1em; font-weight: bold;">
+Gå med i betaprogrammet →
+</a>
+
+</div>
+
 ---
 
 ## Funktioner
@@ -62,7 +74,7 @@ Kolla avgångar utan att öppna appen. Widgeten uppdateras automatiskt och visar
 
 ## Ladda ner
 
-**Google Play:** *Kommer snart*
+**Google Play:** *Kommer snart* — [Gå med i betaprogrammet](https://groups.google.com/g/stockholm-t-minus) för att prova appen innan lansering!
 
 ---
 
